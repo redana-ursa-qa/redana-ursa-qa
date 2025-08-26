@@ -39,7 +39,14 @@ I’ve led projects as the sole QA specialist, built testing practices from scra
 ![QASE](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase)
 ![ZEPHYR_SCALE](https://img.shields.io/badge/Zephyr_Scale-090909?style=for-the-badge&logo=zephyr)
 
-Test documentation
+### Test documentation
+— [Checklists]()
+— [Test-Suites_and_Test-Cases]()
+— [Bug-Reports]()
+— [SQL_Queries]()
+— [Postman_Collections]()
+<!-- (https://github.com/redana.ursa-qa/check-list /bug-report /test-case /SQL etc.
+добавить отдельные репозитории под каждый раздел. Посмотреть примеры репов можно на artichokeee (https://github.com/artichokeee/artichokeee)) -->
 
 ### How to reach me
 [![EMAIL](https://img.shields.io/badge/redana.ursa@gmail.com-090909?style=for-the-badge&logo=gmail)](mailto:redana.ursa@gmail.com)

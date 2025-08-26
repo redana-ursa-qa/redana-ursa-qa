@@ -39,7 +39,10 @@ My CV
 
 Test documentation
 
-How to reach me
+### How to reach me
+[![EMAIL](https://img.shields.io/badge/redana.ursa@gmail.com-090909?style=for-the-badge&logo=gmail)](mailto:redana.ursa@gmail.com)
+[![TG](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Redana_Ursa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/redana-ursa-qa/)
 
 
 

@@ -12,8 +12,10 @@ I’ve led projects as the sole QA specialist, built testing practices from scra
 
 📍 Based in Spain, open to remote opportunities worldwide.
 
-
-My CV
+### My CV
+[Link to my CV — rus](https://drive.google.com/file/d/1xAyk4qe06r6o5v3fpqkjgN3Jlt3vuiNC/view?usp=sharing)
+<!-- [Link to my CV — eng](https://) -->
+<!-- [Link to my CV — spa](https://) -->
 
 ### Languages and Tools
 ![PYTHON](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)

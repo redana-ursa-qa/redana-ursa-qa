@@ -42,7 +42,7 @@ I’ve led projects as the sole QA specialist, built testing practices from scra
 ### Test documentation
 — [Checklists]()
 — [Test-Suites_and_Test-Cases]()
-— [Bug-Reports]()
+— [Bug-Reports](https://github.com/redana-ursa-qa/bug-reports#)
 — [SQL_Queries]()
 — [Postman_Collections]()
 <!-- (https://github.com/redana.ursa-qa/check-list /bug-report /test-case /SQL etc.

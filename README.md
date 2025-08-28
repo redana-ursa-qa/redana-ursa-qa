@@ -40,11 +40,11 @@ I’ve led projects as the sole QA specialist, built testing practices from scra
 ![ZEPHYR_SCALE](https://img.shields.io/badge/Zephyr_Scale-090909?style=for-the-badge&logo=zephyr)
 
 ### Test documentation
-— [Checklists]()
-— [Test-Suites_and_Test-Cases]()
-— [Bug-Reports](https://github.com/redana-ursa-qa/bug-reports#)
-— [SQL_Queries]()
-— [Postman_Collections]()
+— [Checklists]()  
+— [Test-Suites_and_Test-Cases]()  
+— [Bug-Reports](https://github.com/redana-ursa-qa/bug-reports#)  
+— [SQL_Queries](https://github.com/redana-ursa-qa/SQL_Queries)  
+— [Postman_Collections]()  
 <!-- (https://github.com/redana.ursa-qa/check-list /bug-report /test-case /SQL etc.
 добавить отдельные репозитории под каждый раздел. Посмотреть примеры репов можно на artichokeee (https://github.com/artichokeee/artichokeee)) -->
 
